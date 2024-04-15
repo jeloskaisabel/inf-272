@@ -99,8 +99,6 @@ En la pantalla 'Select Products' (Seleccionar Productos) del MySQL Installer, de
 - **MySQL Workbench**: Es una herramienta integral para el diseño, modelado, generación y administración de bases de datos MySQL. Es fundamental para quienes prefieren una interfaz visual para gestionar sus bases de datos.
 - **MySQL Shell**: Es un intérprete de comandos avanzado que soporta scripting en SQL, Python y JavaScript. Es una poderosa herramienta para interactuar con el servidor MySQL mediante línea de comandos y es útil para tareas administrativas avanzadas y scripting.
 
-Mis disculpas por la omisión. Vamos a integrar la información sobre MySQL Router a la descripción detallada de la selección de componentes:
-
 #### MySQL Router
 - **MySQL Router**: Este componente es fundamental para crear una capa de enrutamiento entre su aplicación y el clúster de MySQL. MySQL Router dirige automáticamente el tráfico de la base de datos entre la aplicación y cualquier servidor MySQL, incluyendo replicación de grupo y clústeres InnoDB. Es especialmente útil en entornos que utilizan alta disponibilidad y balanceo de carga.
 
