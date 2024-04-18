@@ -1,10 +1,6 @@
-# Tutorial de Instalación y Configuración
+# Trabajo de Investigación
 ### Gestor de Base de Datos MySQL Community Edition
 #### Elaborado por Grupo 4 INF-272
-
-Este manual contiene:
-- Configuración del Hardware
-- Configuración del Software
 
 ## Introducción
 Este documento proporciona una guía para la adquisición e instalación de MySQL Community Edition, la versión de código abierto del gestor de base de datos MySQL. Esta edición es particularmente apropiada para desarrolladores, así como pequeñas y medianas empresas, y se destaca en entornos académicos por ser una solución robusta y sin costo.
